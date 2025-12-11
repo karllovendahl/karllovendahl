@@ -44,12 +44,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
-
-<br>
-
-## 🚀 Github:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karl0905&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🎧 Music:
 *Currently working hard, listening to:*
 
