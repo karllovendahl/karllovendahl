@@ -41,7 +41,7 @@
 ## 🎧 Music:
 *Currently working hard, listening to:*
 
-[![Spotify](https://novatorem-chi-lake.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://github.com/karl0905/novatorem)
+[![Spotify](https://novatorem-chi-lake.vercel.app/api/spotify/?background_color=1a1b27&border_color=ffffff)](https://github.com/karllovendahl/novatorem)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
