@@ -2,8 +2,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karllovendahl)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=protodotio&logoColor=white)](https://karlg.dk)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovendahl@karlg.dk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=protodotio&logoColor=white)](https://karllovendahl.dev)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karl@lovendahl.dev)
 
 
 ## 💻 Tech Stack:
